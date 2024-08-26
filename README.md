@@ -1,5 +1,5 @@
 <a href="https://ik.imagekit.io/os33grffu/landing.JPG?updatedAt=1724693903071/">
-    <img width="100%" src="https://i.imgur.com/XjcKIXF.png">
+    <img width="100%" src="https://ik.imagekit.io/os33grffu/landing.JPG?updatedAt=1724693903071">
   </a>
 
 #Hasan Ai: NextJS SaaS Project Template
